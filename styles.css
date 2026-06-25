@@ -230,6 +230,9 @@ a{text-decoration:none;color:inherit}
 .foot-contact a{font-weight:600;color:#cfd3da;transition:.15s}
 .foot-contact a:hover{color:var(--yellow)}
 .copyright{text-align:center;margin-top:28px;font-size:.85rem;color:#7c828d;border-top:1px solid #1c1f26;padding-top:20px}
+.built-by{text-align:center;margin-top:6px;font-size:.85rem;color:#7c828d}
+.built-by a{color:var(--yellow);font-weight:600}
+.built-by a:hover{text-decoration:underline}
 
 /* ===== Floating WhatsApp ===== */
 .fab{
